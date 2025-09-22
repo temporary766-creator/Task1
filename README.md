@@ -25,5 +25,5 @@ This repository contains the data cleaning and preprocessing steps performed on 
 - `Task1_Report.pdf`: One-page report with summary & visuals
 
 ## How to Run
-1. Open `Task1_Titanic_Preprocessing.ipynb` in Jupyter Notebook / JupyterLab / VSCode.
+1. Open `Task1_Titanic_Preprocessing.ipynb` in Jupyter Notebook / JupyterLab / VSCode. Ensure the dataset is there. If not working then please download in from here(I have addded).
 2. Run all cells to reproduce preprocessing steps.
